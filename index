@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cita Consular Orán</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <script>
+    window.location.replace("https://www.citaconsular.es/es/hosteds/widgetdefault/2da8fb6f4ac7361929959598a1e5b1e45");
+  </script>
+  <p>Redirigiendo... <a href="https://www.citaconsular.es/es/hosteds/widgetdefault/2da8fb6f4ac7361929959598a1e5b1e45">Click aquí</a></p>
+</body>
+</html>
